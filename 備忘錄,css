@@ -1,0 +1,28 @@
+#app{
+    display: flex;
+    width: 100%;
+}
+#add{
+    display: flex;
+
+}
+
+
+.item{
+    width: 100%;
+    border-bottom: 1px solid #000; 
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#remove{
+ background-color: rgb(212, 101, 101);
+ margin-top:20px ;
+ color: #fff;
+ border: 0;
+ box-sizing: border-box;
+ width: 100%;
+ padding: 15px;
+}
